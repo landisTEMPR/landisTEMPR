@@ -10,9 +10,9 @@
                                           LANDIS
 ```
 
-### CS Junior @ Columbia College · systems programmer · graphics  · low-level enthusiast
+### CS Junior @ Columbia College · systems programmer · graphics hacker · low-level enthusiast
 
-[![Twitter/X]](https://x.com/landisFPS)
+[![Twitter/X](https://img.shields.io/badge/𝕏-landisFPS-black?style=flat-square&logo=x)](https://x.com/landisFPS)
 [![GitHub](https://img.shields.io/badge/GitHub-landisTEMPR-181717?style=flat-square&logo=github)](https://github.com/landisTEMPR)
 ![Location](https://img.shields.io/badge/📍-Columbia,_MO-555?style=flat-square)
 ![School](https://img.shields.io/badge/🎓-Columbia_College-003087?style=flat-square)
