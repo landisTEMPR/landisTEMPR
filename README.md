@@ -10,11 +10,12 @@
                                           LANDIS
 ```
 
-### systems programmer · graphics hacker · low-level enthusiast
+### CS Junior @ Columbia College · systems programmer · graphics  · low-level enthusiast
 
-[![Twitter/X](https://img.shields.io/badge/𝕏-landisFPS-black?style=flat-square&logo=x)](https://x.com/landisFPS)
+[![Twitter/X]](https://x.com/landisFPS)
 [![GitHub](https://img.shields.io/badge/GitHub-landisTEMPR-181717?style=flat-square&logo=github)](https://github.com/landisTEMPR)
 ![Location](https://img.shields.io/badge/📍-Columbia,_MO-555?style=flat-square)
+![School](https://img.shields.io/badge/🎓-Columbia_College-003087?style=flat-square)
 
 </div>
 
@@ -22,9 +23,9 @@
 
 ## `> whoami`
 
-I write software close to the metal. My interests sit at the intersection of **computer graphics**, **systems programming**, and **low-level architecture** — places where you have to understand exactly what the hardware is doing to make progress.
+Junior **Computer Science** student at **Columbia College** in Columbia, MO. I write software close to the metal — my interests sit at the intersection of **computer graphics**, **systems programming**, and **low-level architecture**, where understanding exactly what the hardware is doing is the only way to make real progress.
 
-Currently working on real-time 3D rendering, ISA simulation, and desktop tooling. Always building something.
+My coursework in data structures, algorithms, and systems has given me a strong foundation, but my best learning happens when I'm building — real-time 3D renderers, ISA simulators, and tools that solve actual problems. Currently targeting roles in **graphics engineering**, **systems software**, or **low-level tooling** after graduation.
 
 ---
 
@@ -37,7 +38,7 @@ Currently working on real-time 3D rendering, ISA simulation, and desktop tooling
 ### ⚛️ [Atomic-Structure-Simulation](https://github.com/landisTEMPR/Atomic-Structure-Simulation)
 `C` · `OpenGL` · `Vulkan`
 
-Real-time **3D atom simulation** with dynamic electron orbit rendering and nucleus detail. A deep dive into low-level graphics programming and physics-based rendering.
+Real-time **3D atom simulation** with dynamic electron orbit rendering and nucleus detail. A hands-on application of linear algebra, graphics pipelines, and physics-based rendering concepts studied in coursework.
 
 > 🔧 *In active development*
 
@@ -47,7 +48,7 @@ Real-time **3D atom simulation** with dynamic electron orbit rendering and nucle
 ### 🖥️ [MIPS-AssemblyLangInterpreter](https://github.com/landisTEMPR/MIPS-AssemblyLangInterpreter)
 `C++` · `Assembly`
 
-Full-featured **MIPS-I ISA interpreter** with a dynamic full-screen terminal interface. Supports interactive mode, manual instruction entry, and step-by-step debugging.
+Full-featured **MIPS-I ISA interpreter** with a dynamic terminal interface. Directly extends my computer organization studies — supports interactive mode, manual instruction entry, and step-by-step debugging.
 
 > 🔧 *In active development*
 
@@ -59,7 +60,7 @@ Full-featured **MIPS-I ISA interpreter** with a dynamic full-screen terminal int
 ### 🎯 [SiegeScope-Client](https://github.com/landisTEMPR/SiegeScope-Client)
 `Go` · `Fyne` · `SQLite`
 
-Cross-platform **Rainbow Six: Siege replay tracker**. Parses `.rec` files, persists match history locally, and surfaces win rates, operator stats, and round-by-round breakdowns.
+Cross-platform **Rainbow Six: Siege replay tracker**. Parses `.rec` files, persists match history with SQLite, and surfaces win rates, operator stats, and round-by-round breakdowns. A full-stack project applying database and software engineering principles outside the classroom.
 
 </td>
 <td width="50%">
@@ -67,7 +68,7 @@ Cross-platform **Rainbow Six: Siege replay tracker**. Parses `.rec` files, persi
 ### 🔬 [2D-Particle-Simulation](https://github.com/landisTEMPR/2D-Particle-Simulation)
 `C++`
 
-Interactive **2D particle physics** simulation — exploring force models, collision resolution, and real-time rendering at the 2D level before going fully 3D.
+Interactive **2D particle physics** simulation — exploring force models, collision resolution, and real-time rendering at the 2D level. Foundational groundwork before graduating to full 3D.
 
 </td>
 </tr>
@@ -77,7 +78,7 @@ Interactive **2D particle physics** simulation — exploring force models, colli
 ### 🧪 [Mini-Projects](https://github.com/landisTEMPR/Mini-Projects)
 `C++`
 
-A collection of experiments, utility tools, and interesting builds. The sketchbook where ideas get tested before they become real projects.
+A collection of experiments, utility tools, and quick builds. The sketchbook where ideas get tested before becoming full projects.
 
 </td>
 <td width="50%">
@@ -85,7 +86,7 @@ A collection of experiments, utility tools, and interesting builds. The sketchbo
 ### 📚 [CISS350](https://github.com/landisTEMPR/CISS350)
 `C++`
 
-Data structures coursework — trees, traversals, and the fundamentals that underpin everything else. Clean implementations, built from scratch.
+**Data Structures & Algorithms** coursework at Columbia College — trees, traversals, sorting, and the fundamentals that underpin everything else. Clean, from-scratch implementations with an emphasis on understanding over convenience.
 
 </td>
 </tr>
@@ -93,17 +94,35 @@ Data structures coursework — trees, traversals, and the fundamentals that unde
 
 ---
 
+## `> cat academics.txt`
+
+```
+🎓  School:     Columbia College — Columbia, MO
+📐  Major:      Computer Science (B.S.)
+📅  Standing:   Junior (Class of 2027)
+📖  Relevant
+    Coursework: Data Structures & Algorithms (CISS350)
+                Computer Organization & Architecture
+                Object-Oriented Programming (C++)
+                Discrete Mathematics
+                Operating Systems (upcoming)
+                Computer Graphics (upcoming)
+🏆  Focus:      Low-level systems · Real-time graphics · ISA design
+```
+
+---
+
 ## `> cat skills.txt`
 
 <div align="center">
 
-| Systems | Graphics | Languages | Tools |
+| Languages | Systems & Hardware | Web & Frontend | Tools & Workflow |
 |:---:|:---:|:---:|:---:|
-| Memory Management | OpenGL | C | GCC / G++ |
-| ISA Architecture | Vulkan | C++ | Make |
-| Register Files | Real-time Rendering | Go | Git |
-| Assembly (MIPS) | Physics Simulation | Assembly | SQLite |
-| Data Structures | Particle Systems | — | Fyne |
+| C++ | Assembly (MIPS) | HTML & CSS | Git & GitHub |
+| Python | Verilog (HDL) | JavaScript / TypeScript | CLI & Bash |
+| Assembly | ISA Architecture | React | GCC / G++ |
+| JavaScript / TS | Memory Management | Next.js | Make |
+| Verilog | Asymptotic Analysis | — | SQLite |
 
 </div>
 
@@ -124,10 +143,11 @@ Data structures coursework — trees, traversals, and the fundamentals that unde
 ## `> echo $CURRENTLY`
 
 ```
+🎓  Studying:   Data Structures & Algorithms (CISS350) @ Columbia College
 🔭  Building:   Atomic-Structure-Simulation (OpenGL/Vulkan 3D renderer)
-🔩  Building:   MIPS Interpreter (ISA simulation, full instruction set)
-📖  Studying:   Data Structures & Algorithms (CISS350)
+🔩  Building:   MIPS Interpreter (full ISA simulation + debugger)
 🌱  Learning:   Low-level graphics pipelines, Vulkan API
+🎯  Goal:       Graphics engineering / systems software role post-graduation
 ```
 
 ---
