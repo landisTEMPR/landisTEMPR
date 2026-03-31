@@ -23,9 +23,9 @@
 
 ## `> whoami`
 
-Junior **Computer Science** student at **Columbia College** in Columbia, MO. I build things across the stack — from full-stack web apps with React and Next.js to systems-level tools in C++ and Assembly. I care about writing software that works, is well-structured, and actually solves something.
+Junior **Computer Science** student at **Columbia College** in Columbia, MO. I build things across the stack - from web apps with React and Next.js to systems-level tools in C++ and Assembly. I care about writing software that works, is well-structured, and actually solves real-world problems.
 
-My coursework has given me a strong theoretical foundation in algorithms, data structures, and computer organization. Outside the classroom I'm applying that knowledge in projects that span graphics simulation, tooling, and web development. I'm always working on something, and I learn best by building.
+My coursework has given me a strong theoretical foundation in algorithms, data structures, and computer organization. Outside the classroom, I'm applying that knowledge in projects that span graphics simulation, tooling, and web development. I'm always working on something, and I learn best by building.
 
 ---
 
@@ -120,7 +120,7 @@ A sketchbook of experiments, utility tools, and quick builds. Where ideas get te
 | C++ | HTML & CSS | Assembly (MIPS) | Git & GitHub |
 | Python | JavaScript / TypeScript | Verilog (HDL) | CLI & Bash |
 | JavaScript / TS | React | Memory Management | GCC / G++ |
-| Assembly | Next.js | Asymptotic Analysis | SQLite |
+| Assembly | Next.js | Asymptotic Analysis | MySQL |
 | Verilog | — | ISA Architecture | Make |
 
 </div>
