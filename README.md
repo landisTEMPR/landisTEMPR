@@ -10,7 +10,7 @@
                                           LANDIS
 ```
 
-### CS Junior @ Columbia College · full-stack dev · software engineer · builder
+### CS Junior @ Columbia College · aspiring software engineer · builder
 
 [![Twitter/X](https://img.shields.io/badge/𝕏-landisFPS-black?style=flat-square&logo=x)](https://x.com/landisFPS)
 [![GitHub](https://img.shields.io/badge/GitHub-landisTEMPR-181717?style=flat-square&logo=github)](https://github.com/landisTEMPR)
