@@ -23,7 +23,7 @@
 
 ## `> whoami`
 
-Junior **Computer Science** student at **Columbia College** in Columbia, MO. I build things across the stack - from web apps with React and Next.js to systems-level tools in C++ and Assembly. I care about writing software that works, is well-structured, and actually solves real-world problems.
+Junior **Computer Science** student at **Columbia College** in Columbia, MO. I build things across the stack, from web apps with React and Next.js to systems-level tools in C++ and Assembly. I care about writing software that works, is well-structured, and actually solves real-world problems.
 
 My coursework has given me a strong theoretical foundation in algorithms, data structures, and computer organization. Outside the classroom, I'm applying that knowledge in projects that span graphics simulation, tooling, and web development. I'm always working on something, and I learn best by building.
 
