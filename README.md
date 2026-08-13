@@ -107,7 +107,7 @@ A sketchbook of experiments, utility tools, and quick builds. Where ideas get te
 **Completed coursework**
 
 | Course | Title | Term |
-|---|---|---|---|
+|---|---|---|
 | MATH-180 | Precalculus | Spring 2023 |
 | COSC-240 | Introduction to Programming | Spring 2024 |
 | CISS-201 | Agile Software Development | Fall 2024 |
