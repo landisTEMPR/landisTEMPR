@@ -10,7 +10,7 @@
                                           LANDIS
 ```
 
-### CS Junior @ Columbia College · aspiring software engineer · builder
+### CS Senior @ Columbia College · aspiring software engineer · builder
 
 [![Twitter/X](https://img.shields.io/badge/𝕏-landisFPS-black?style=flat-square&logo=x)](https://x.com/landisFPS)
 [![GitHub](https://img.shields.io/badge/GitHub-landisTEMPR-181717?style=flat-square&logo=github)](https://github.com/landisTEMPR)
@@ -23,9 +23,9 @@
 
 ## `> whoami`
 
-Junior **Computer Science** student at **Columbia College** in Columbia, MO. I build things across the stack, from web apps with React and Next.js to systems-level tools in C++ and Assembly. I care about writing software that works, is well-structured, and actually solves real-world problems.
+Senior **Computer Science** student at **Columbia College** in Columbia, MO, minoring in **Mathematics**. I build things across the stack, from web apps with React and Next.js to systems-level tools in C++ and Assembly. I care about writing software that works, is well-structured, and actually solves real-world problems.
 
-My coursework has given me a strong theoretical foundation in algorithms, data structures, and computer organization. Outside the classroom, I'm applying that knowledge in projects that span graphics simulation, tooling, and web development. I'm always working on something, and I learn best by building.
+My coursework has taken me from core programming and data structures through computer architecture, automata theory, and AI — with a math minor pushing my theoretical foundation even further. Outside the classroom, I'm applying that knowledge in projects that span graphics simulation, tooling, and web development. I'm always working on something, and I learn best by building.
 
 ---
 
@@ -99,15 +99,47 @@ A sketchbook of experiments, utility tools, and quick builds. Where ideas get te
 ```
 🎓  School:     Columbia College — Columbia, MO
 📐  Major:      Computer Science (B.S.)
-📅  Standing:   Junior (Class of 2027)
-📖  Coursework: Data Structures & Algorithms (CISS350)
-                Computer Organization & Architecture
-                Object-Oriented Programming (C++)
-                Discrete Mathematics
-                Operating Systems (upcoming)
-                Computer Graphics (upcoming)
-🏆  Interests:  Software engineering · Full-stack dev · Systems programming
+📐  Minor:      Mathematics
+📅  Standing:   Senior (Class of 2027)
+📈  GPA:        3.625
 ```
+
+**Completed coursework**
+
+| Course | Title | Term |
+|---|---|---|---|
+| MATH-180 | Precalculus | Spring 2023 |
+| COSC-240 | Introduction to Programming | Spring 2024 |
+| CISS-201 | Agile Software Development | Fall 2024 |
+| CISS-202 | Introduction to Databases | Fall 2024 |
+| MATH-201 | Calculus and Analytic Geometry I | Spring 2025 |
+| COSC-245 | Advanced Programming | Fall 2025 |
+| COSC-360 | Computer Systems & Assembly Language | Fall 2025 |
+| COSC-420 | Computer Architecture | Spring 2025 |
+| COSC-445 | Programming Languages | Spring 2025 |
+| COSC-350 | Advanced Algorithms & Data Structures | Spring 2025 |
+
+**In progress — Fall 2026**
+
+| Course | Title |
+|---|---|
+| COSC-450 | Artificial Intelligence |
+| COSC-362 | Introduction to Automata |
+| COSC-465 | Software Engineering |
+| MATH-250 | Statistics I |
+| MATH-225 | Discrete Mathematics I |
+
+**Planned — Spring 2026 & beyond**
+
+| Course | Title |
+|---|---|
+| COSC-370 | Operating Systems |
+| COSC-438 | Object-Oriented Design |
+| COSC-451 | Introduction to Cryptography |
+| COSC-430 | Database Systems |
+| MATH-325 | Discrete Mathematics II |
+| MATH-222 | Calculus & Analytic Geometry II |
+| COSC-410 | Computer Networks & Communication |
 
 ---
 
@@ -121,7 +153,7 @@ A sketchbook of experiments, utility tools, and quick builds. Where ideas get te
 | Python | JavaScript / TypeScript | Verilog (HDL) | CLI & Bash |
 | JavaScript / TS | React | Memory Management | GCC / G++ |
 | Assembly | Next.js | Asymptotic Analysis | MySQL |
-| Verilog | — | ISA Architecture | Make |
+| Verilog | — | ISA Architecture · Automata Theory | Make |
 
 </div>
 
@@ -139,7 +171,8 @@ A sketchbook of experiments, utility tools, and quick builds. Where ideas get te
 ## `> echo $CURRENTLY`
 
 ```
-🎓  Studying:   Data Structures & Algorithms (CISS350) @ Columbia College
+🎓  Studying:   Artificial Intelligence (COSC-450) · Automata Theory (COSC-362)
+                Software Engineering (COSC-465) @ Columbia College
 🔭  Building:   Atomic-Structure-Simulation (OpenGL/Vulkan 3D renderer)
 🔩  Building:   MIPS Interpreter (ISA simulation + step debugger)
 🌱  Learning:   Vulkan API · deepening full-stack skills
